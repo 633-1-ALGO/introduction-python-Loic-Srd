@@ -4,7 +4,6 @@
 A = [1, 5, 15, 25, 10, 55, 50, 35]
 b = 0
 for i in A:
-    b = b + [i]
+    b = b + A[i]
 b = b / len(A)
-
 print(b)
