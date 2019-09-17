@@ -20,6 +20,3 @@ if n % 4 == 0:
          print("Année non bissextile")
 else:
     print("Année non bissextile")
-
-
-
